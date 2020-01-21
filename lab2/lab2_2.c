@@ -11,7 +11,7 @@ int sumOfN (int n) {
 	if (i > 0) { 
 		sum = sumOfN(i);
 	}
-
+	
 	return sum;
 
 }
